@@ -9,8 +9,8 @@
 
 <channel>
 	<title>TRUSTED</title>
-	<atom:link href="http://localhost/trustedhp/feed/?simply_static_page=15" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://localhost/trustedhp/feed/?simply_static_page=242" rel="self" type="application/rss+xml" />
+	<link>https://trusted-ssd.github.io/TRUSTED</link>
 	<description></description>
 	<lastBuildDate>Sat, 09 Dec 2023 18:06:40 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/2023/12/09/hello-world/</link>
-					<comments>/2023/12/09/hello-world/#comments</comments>
+		<link>https://trusted-ssd.github.io/TRUSTED/hello-world/</link>
+					<comments>https://trusted-ssd.github.io/TRUSTED/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 09 Dec 2023 18:06:40 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://trusted-ssd.github.io/TRUSTED/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/12/09/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://trusted-ssd.github.io/TRUSTED/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

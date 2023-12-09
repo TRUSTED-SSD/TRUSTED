@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>admin &#8211; TRUSTED</title>
-	<atom:link href="http://localhost/trustedhp/author/admin/feed/?simply_static_page=265" rel="self" type="application/rss+xml" />
+	<title>Uncategorised &#8211; TRUSTED</title>
+	<atom:link href="http://localhost/trustedhp/category/uncategorised/feed/?simply_static_page=267" rel="self" type="application/rss+xml" />
 	<link>https://trusted-ssd.github.io/TRUSTED</link>
 	<description></description>
 	<lastBuildDate>Sat, 09 Dec 2023 18:06:40 +0000</lastBuildDate>
