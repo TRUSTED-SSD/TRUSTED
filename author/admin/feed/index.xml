@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>admin</title>
-	<atom:link href="http://localhost/trustedhp/author/admin/feed/?simply_static_page=1026" rel="self" type="application/rss+xml" />
+	<title>admin &#8211; TRUSTED: Security Summaries for Secure Software Development</title>
+	<atom:link href="http://localhost/trustedhp/author/admin/feed/?simply_static_page=1173" rel="self" type="application/rss+xml" />
 	<link>https://trusted-ssd.github.io/TRUSTED</link>
 	<description></description>
 	<lastBuildDate>Sat, 09 Dec 2023 18:06:40 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://trusted-ssd.github.io/TRUSTED/wp-content/uploads/2023/12/EPSRC_logo_sponsor_rgb-150x150.jpg</url>
-	<title>admin</title>
+	<title>admin &#8211; TRUSTED: Security Summaries for Secure Software Development</title>
 	<link>https://trusted-ssd.github.io/TRUSTED</link>
 	<width>32</width>
 	<height>32</height>
